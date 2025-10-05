@@ -1,2 +1,2 @@
-# Pythonic-Arthemic-Parser-in-C
-created a arthemic parser in c
+# Pythonic-Arithemic-Parser-in-C
+Created a Pythonic Arithmetic Parser, but in C language
